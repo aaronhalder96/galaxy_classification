@@ -1,5 +1,4 @@
 # Galaxy Classification
-Program to identify type of galaxy when given an image
 
 System Requirements: Python Version >= 3.9.0
 
